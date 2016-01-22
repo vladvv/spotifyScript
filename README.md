@@ -1,0 +1,2 @@
+# spotifyScript
+caching discover weekly
